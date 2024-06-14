@@ -34,13 +34,13 @@ sidebar:
 ##### 边栏结束 #####
 
 ##### 主栏开始 #####
-# career-profile:
-#     title: 生涯概况
-#     summary: |
-#       在这里概括你的职业生涯经历，可以使用markdown语法，如使用`**加粗**`来**加粗文字**，使用
-#       `[文字](链接)`来给[文字](链接)添加超链等。
+career-profile:
+    title: 专业技能
+    summary: |
+      - 掌握PyTorch，掌握基本深度学习模型。
+      - 具备前端相关知识，掌握Vue.js、HTML、CSS和JavaScript；能够使用Echarts、nest.js等JS框架。
+      - 掌握Python、C、JAVA；掌握数据结构与算法、Linux、操作系统、计算机网络、数据库等计算机基础知识。
 
-#       如需换行，请 **连换两行**。
 
 education:
   title: 教育经历
@@ -173,7 +173,7 @@ publications:
       authors: 2020.11
 
 skills:
-  title: 专业技能
+  title: 技术栈
   intro: |
     - 掌握PyTorch，掌握基本深度学习模型。
     - 具备前端相关知识，掌握Vue.js、HTML、CSS和JavaScript；能够使用Echarts、nest.js等JS框架。
