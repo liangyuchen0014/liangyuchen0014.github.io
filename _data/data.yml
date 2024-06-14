@@ -21,7 +21,17 @@ sidebar:
   github: liangyuchen0014 # GitHub用户名
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
 #    pdf:   # 如果有pdf版的简历，可以在这里放简历的下载链接，或者直接放 {https://你的简历页面}/print
+  languages:
+    title: 语言能力
+    info:
+      - idiom: 英语
+        # level: 
 
+      - idiom: 英语六级（CET-6）564分
+        # level: 
+
+      - idiom: 全国大学生英语竞赛C类三等奖
+        # level: 
 # interests:
 #   title: 求职意向
 #   info:
