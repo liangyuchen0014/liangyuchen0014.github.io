@@ -56,22 +56,22 @@ education:
 experiences:
   title: 学生工作
   info:
-    - role: 实践部 工作人员
+    - role: 北航校学生会 - 实践部 工作人员
       time: 2021.09 - 2022.07
-      company: 北航校学生会
+      company: 
       details: |
         参与校学生会的招新外场、校会招新面试；参与北航第三十三次学生代表大会的前期策划和现场工作；参与北航实践文化节前期准备与现场工作
 
-    - role: 调研部部长
+    - role: 北航传承之焰支教团 - 调研部部长
       time: 2021.01 - 2021.09
-      company: 北航传承之焰支教团
+      company: 
       details: |
         在寒暑假组织开展线上线下调研活动，探寻支教地人才振兴、返乡创业的有关情况。先后撰写多篇调研报告，获校寒假社会实践一等奖、校寒假社会实践一等奖、首都挑战杯“红色实践”专项赛二等奖等奖项
 
 
-    - role: 小班长
+    - role: 北航第68期学生党校 - 小班长
       time: 2020.02 - 2020.06
-      company: 北航第68期学生党校
+      company: 
       details: |
         负责党校小班的日常管理与活动开展，获“优秀学员”称号；所在班级获“优秀班级”称号
 
@@ -162,22 +162,22 @@ publications:
 
     - title: 北京航空航天大学2021年暑期社会实践先进个人
       link: "#"
-      authors: 2021/11
+      authors: 2021.11
 
     - title: 北京航空航天大学2021年度优秀志愿者
       link: "#"
-      authors: 2021/11
+      authors: 2021.11
 
     - title: 北京航空航天大学2020年度优秀志愿者
       link: "#"
-      authors: 2020/11
+      authors: 2020.11
 
 skills:
   title: 专业技能
-  intro: >
-    掌握PyTorch，掌握基本深度学习模型。
-    具备前端相关知识，掌握Vue.js、HTML、CSS和JavaScript；能够使用Echarts、nest.js等JS框架。
-    掌握Python、C、JAVA；掌握数据结构与算法、Linux、操作系统、计算机网络、数据库等计算机基础知识。
+  intro: |
+    - 掌握PyTorch，掌握基本深度学习模型。
+    - 具备前端相关知识，掌握Vue.js、HTML、CSS和JavaScript；能够使用Echarts、nest.js等JS框架。
+    - 掌握Python、C、JAVA；掌握数据结构与算法、Linux、操作系统、计算机网络、数据库等计算机基础知识。
 
   toolset:
     - name: Python
