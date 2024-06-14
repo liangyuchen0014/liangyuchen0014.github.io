@@ -7,7 +7,7 @@
 ##### 边栏开始 #####
 sidebar:
   position: left
-  education: True # 用于"教育背景"栏目所处位置的设置False表示在主栏，True表示在侧边栏
+  education: False # 用于"教育背景"栏目所处位置的设置False表示在主栏，True表示在侧边栏
 
   # 基本信息
   name: 梁宇辰 # 你的姓名
@@ -90,9 +90,9 @@ certifications:
     - name: 大厦物业管理系统
       start: 2023.06
       end:
-      organization:
+      organization: Project Owner & Scrum Master & 前端开发
       credentialurl:
-      credentialname: Project Owner & Scrum Master & 前端开发
+      credentialname:
       details: |
         - 作为Scrum Master，对整个开发团队进行进度管理、任务分工、召集每日站会、统筹制订用户故事
         - 作为Project Owner，与甲方进行需求对接、需求建模
