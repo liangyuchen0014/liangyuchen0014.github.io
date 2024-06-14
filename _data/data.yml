@@ -87,7 +87,7 @@ certifications:
       credentialname: 
       details: |
         本项目构建了一个融合了热度、舆情主题和舆情情感等多维数据的模型，通过对舆情事件的危险程度进行打分的形式实现对舆情危机的预测，并对不同维度的特征因素在对舆情危机预测中的重要性和影响性进行了分析。本人在项目中负责部分论文撰写、数据处理与分析、对NBEATSx、RoBERTa等模块的模型调研等工作。该项目获**北航冯如杯科技竞赛主赛道论文组三等奖**
-         
+        <br><br>   
 
     - name: 大厦物业管理系统
       start: 2023.06
@@ -101,7 +101,7 @@ certifications:
         - 作为Project Owner，与甲方进行需求对接、需求建模
         - 使用Echarts和Element UI进行前端开发
         - 前端仓库[在这里](https://github.com/liangyuchen0014/qunxing_frontend)，后端仓库[在这里](https://github.com/liangyuchen0014/qunxing_backend)，演示视频[在这里](https://www.bilibili.com/video/BV1mh4y1m7Xw/)
-        <br>
+        <br><br>
 
     - name: 鸿蒙GUI模型与代码生成
       start: 2022.09
@@ -111,7 +111,7 @@ certifications:
       credentialname: 北航自动化软工实验室
       details: |
         参与了北航华为关键软件联合实验室的GUI模型与代码生成项目，其中负责ArkTS语言调研、低代码平台调研等，开发了一款基于鸿蒙ArkTS语言的APP（仓库[在这里](https://github.com/liangyuchen0014/harmony-to-do/tree/release1)）；为了对代码生成模型进行验证，尝试对一款Demo App做前后端分离，其中前端保持ArkTS框架，后端使用nest.js框架提供接口和数据库服务。
-        <br>
+        <br><br>
 
 
     - name: 基于空间语义关联的视频事件提取研究
@@ -122,7 +122,7 @@ certifications:
       credentialname: 北航多模态感知与计算课题组
       details: |
         事件理解是人工智能认知能力的重要标志之一。课题组构建了一个包含1110个电影解说视频、23989个事件片段的数据集VidEvent，本人参与了数据标注、标注验收与清洗工作，并开发了标注清洗系统（仓库[在这里](https://github.com/liangyuchen0014/event_label)）和数据库展示网站（仓库[在这里](https://github.com/liangyuchen0014/VidEvent)）。在此基础上，对SlowFast、TimeSformer等多种模型进行实验，完成了毕业设计。
-        <br>
+        <br><br>
         
 
     - name: 舆言——智能舆情预测系统
