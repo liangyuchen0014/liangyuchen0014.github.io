@@ -9,22 +9,22 @@ sidebar:
     education: False  # 用于"教育背景"栏目所处位置的设置False表示在主栏，True表示在侧边栏
 
     # 基本信息
-    name: 庞宇轩  # 你的姓名
-    tagline: 学生会主席团成员 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
-    avatar: avatar.jpeg  # 将你头像图片放在assets/images中，然后将文件名填在这里，注意要带后缀，如.jpeg/.png等
+    name: 梁宇辰  # 你的姓名
+    tagline: 北京航空航天大学 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
+    avatar: profile.jpeg  # 将你头像图片放在assets/images中，然后将文件名填在这里，注意要带后缀，如.jpeg/.png等
 
     # 以下内容如果自己没有可以在该行的最前面添加"#"，将其注释掉
-    email: cnicpyx@gmail.com
-    phone: 18554851930
-    website: pyxblog.cn  # 个人主页链接，前面不要添加http://
-    github: cnicpyx  # GitHub用户名
+    email: liangyuchen@buaa.edu.cn
+    phone: 18811331057
+    # website: pyxblog.cn  # 个人主页链接，前面不要添加http://
+    github: liangyuchen0014  # GitHub用户名
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
 #    pdf:   # 如果有pdf版的简历，可以在这里放简历的下载链接，或者直接放 {https://你的简历页面}/print
 
     interests:
-      title: 竞选类别
+      title: 求职意向
       info:
-        - item: 优秀学生干部
+        - item: 大模型算法、python开发实习
           link:
         # - item: 编程
         #   link:
